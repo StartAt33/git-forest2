@@ -8,5 +8,6 @@ public class javaClassGIt {
         System.out.println("dafa");
         System.out.println("fafadfafg");
         System.out.println("version333");
+        System.out.println("version4");
     }
 }
