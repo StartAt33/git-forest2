@@ -1,7 +1,7 @@
 package com.guigu;
 
 /**
- *
+ * Just for studying and testing
  */
 public class javaClassGIt {
     public static void main(String[] args) {
@@ -11,5 +11,6 @@ public class javaClassGIt {
         System.out.println("version4");
         System.out.println("code conflict");
         System.out.println("fadf");
+
     }
 }
