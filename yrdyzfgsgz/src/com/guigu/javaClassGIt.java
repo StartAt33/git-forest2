@@ -12,6 +12,8 @@ public class javaClassGIt {
         System.out.println("code conflict");
         System.out.println("fadf");
         System.out.println("push");
+        System.out.println("pull test");
+        
 
     }
 }
