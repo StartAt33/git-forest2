@@ -10,5 +10,6 @@ public class javaClassGIt {
         System.out.println("version333");
         System.out.println("version4");
         System.out.println("code conflict");
+        System.out.println("fadf");
     }
 }
